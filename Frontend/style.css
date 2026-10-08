@@ -1,0 +1,40 @@
+body{
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+    }
+
+
+ h1{
+    color:black;
+    width: 30%;
+    background-color: aqua;
+}
+
+
+.Employee{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+
+}
+
+.task{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+
+}
+
+input{
+  padding-left: 30px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+label{
+    padding-bottom:10px;
+}
+
+textarea{
+    margin-bottom: 20px;
+}
